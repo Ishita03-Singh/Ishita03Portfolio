@@ -47,7 +47,7 @@ main header {
 }
 
 main header > h1 {
-	color: #464646;
+	color:#8c8888;
 	font-weight: 800;
 	font-size: 5em;
 	letter-spacing: 4px;
@@ -57,7 +57,7 @@ main header > h1 {
 }
 
 main header > h1 > span {
-	color: #33a7ff;;
+	color: #ffffff;
 }
 
 main .menu {
